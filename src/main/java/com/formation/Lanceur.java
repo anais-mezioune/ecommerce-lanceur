@@ -22,6 +22,8 @@ public class Lanceur {
 
         DBService.configure("192.168.1.39");
 
+//        test
+
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         while (true) {
