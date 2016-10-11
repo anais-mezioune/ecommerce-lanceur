@@ -22,7 +22,7 @@ public class Lanceur {
 
         DBService.configure("192.168.1.39");
 
-//        test
+//        test modif
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
